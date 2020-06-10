@@ -25,12 +25,6 @@ namespace PluginTest
 
             //Now vivek from company laptop
 
-            //Again PC 2
-
-            // Laptop - restarting VS 
-
-            // Branch 1 2 3
-
             Entity entity = (Entity)execContext.InputParameters["Target"];
 
             if (entity.Contains("telephone1"))
